@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.resouce.utils.FinanceUtilsAutoConfiguration,\
+com.github.resouce.utils.RestTemplateAutoConfiguration

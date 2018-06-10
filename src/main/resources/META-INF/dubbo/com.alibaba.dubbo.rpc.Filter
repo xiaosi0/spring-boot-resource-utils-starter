@@ -1,0 +1,3 @@
+dubboTraceProvider=com.github.resouce.utils.dubbo.DubboTraceProviderFilter
+dubboTraceCustomer=com.github.resouce.utils.dubbo.DubboTraceCustomerFilter
+dubboTimeout=com.github.resouce.utils.dubbo.DubboTimeoutFilter
